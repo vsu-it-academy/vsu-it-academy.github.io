@@ -1,0 +1,35 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h2{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 200px;
+}
+
+h1{
+    color: brown;
+}
+
+a{
+    font-size: 30px;
+    color: white;
+}
+
+body{
+    background-image: url(../img/fon-python.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lessen{
+    display: flex;
+    flex-direction: column;
+}
+.lessen a{
+    padding-top: 20px;
+}
