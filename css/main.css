@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    position: absolute;
+}
+
+.align{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.align button{
+    width: 100%;
+    margin-top: 10px;
+}
