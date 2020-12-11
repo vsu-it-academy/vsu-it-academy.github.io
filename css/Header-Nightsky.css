@@ -144,8 +144,11 @@ td{
 }
 
 table {
-    margin: auto; 
-    background-color: floralwhite;
+/*     margin: auto; 
+    background-color: floralwhite; */
+        display: block;
+    margin: 0 auto 0 auto;
+    text-align: center;
 }
 
 @media screen and (max-width: 767px) {
