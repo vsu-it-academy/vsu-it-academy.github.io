@@ -6,9 +6,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-title{
-   font-size: 26px;
-}
 .ad{
     padding: 10px;
     width: 600px;
@@ -181,7 +178,7 @@ table {
         font-size: 42px;
     }
     
-    title{
-         font-size: 26px;
+    .header-nightsky .navbar-brand {
+        font-size: 26px;
     }
 }
