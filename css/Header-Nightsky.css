@@ -176,4 +176,8 @@ table {
     .header-nightsky .hero h1{
         font-size: 42px;
     }
+    
+    title{
+         font-size: 26px;
+    }
 }
