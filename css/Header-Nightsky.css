@@ -22,7 +22,7 @@ body {
 
 .header-nightsky {
     color: white;
-    background: url("../img/nightsky.jpg") no-repeat;
+    background: url("../img/back_3.jpg") no-repeat;
     background-size: cover;
     padding-bottom: 400px;
 }
@@ -88,7 +88,7 @@ body {
 
 .header-nightsky .hero {
     text-align: center;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     margin-bottom: 100px;
 }
 
@@ -181,4 +181,9 @@ table {
     .header-nightsky .navbar-brand {
         font-size: 26px;
     }
+}
+
+.text-align{
+    text-align: center;
+    margin-top: 20px;
 }
